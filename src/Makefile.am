@@ -1,2 +1,0 @@
-
-SUBDIRS = resynthesizer resynthesizer-gui
